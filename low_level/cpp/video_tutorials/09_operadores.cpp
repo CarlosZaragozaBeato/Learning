@@ -48,10 +48,10 @@ int main (){
   int b=20;
   int c=30;
 
-  double media = (a+b+c)/3;
+  auto media = (a+b+c)/3;
 
   cout << "La media es "<<media<<endl;
-
+  cout << "El tipo de dato de media es: "<<typeid(media).name()<<endl;
   return 0;
    
 }
