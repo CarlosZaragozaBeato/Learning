@@ -1,5 +1,3 @@
-Para planificar tu aprendizaje de Rust y adquirir las habilidades necesarias para un trabajo, he dividido los conceptos en categorías y les he asignado un tiempo estimado para su estudio. Este plan asume un ritmo de estudio de aproximadamente 2-3 horas diarias. Aquí tienes una lista de puntos y días que podrías seguir:
-
 ### Semana 1: Fundamentos de Rust
 
 **Día 1-2: Introducción y Configuración del Entorno**
