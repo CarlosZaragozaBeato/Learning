@@ -96,10 +96,10 @@ int main()
   // - **Día 6**: Funciones (declaración, definición y llamadas).
   // - **Día 7**: Repaso y ejercicios prácticos.
 
-  // DIA 1
+  // DIA 1 Introducción a C++, configuración del entorno de desarrollo.
   cout << "HOLA MUNDO" << endl;
 
-  // DIA 2
+  // DIA 2 Sintaxis básica, tipos de datos, variables y constantes.
   int edad = 30;
   float altura = 1.80;
   char inicial = 'M';
@@ -117,7 +117,7 @@ int main()
   cout << "Días en una semana: " << DIAS_EN_SEMANA << endl;
   cout << "Meses en un año: " << MESES_EN_ANO << endl;
 
-  // DIA 3
+  // DIA 3 Operadores aritméticos y lógicos.
   int x = 10, y = 20;
   bool resultado;
 
@@ -143,7 +143,7 @@ int main()
   cout << "Resultado OR lógico: " << or_logico << endl;
   cout << "Resultado NOT lógico: " << not_logico << endl;
 
-  // DÍA 4
+  // DÍA 4 Control de flujo (if, else, switch).
   int numero;
   cout << "Introduce un número: ";
   cin >> numero;
@@ -183,7 +183,7 @@ int main()
     break;
   }
 
-  // DÍA 5
+  // DÍA 5  Bucles (for, while, do-while).
   cout << "Bucle for:" << endl;
   for (int i = 1; i <= 10; i++)
   {
@@ -211,7 +211,7 @@ int main()
   } while (k <= 10);
   cout << endl;
 
-  // DIA 6
+  // DIA 6 Funciones (declaración, definición y llamadas).
   int numero_bucle = 0;
 
   while (numero_bucle < 4)
@@ -222,7 +222,7 @@ int main()
     incrementar(numero_bucle);
   }
 
-  // DIA 7
+  // DIA 7 Repaso y ejercicios prácticos.
   numerosPares(20);
   //
   cout << "Introduce un número: ";
