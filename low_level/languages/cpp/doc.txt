@@ -1,5 +1,3 @@
-Crear un plan detallado para aprender C++ para un trabajo implica identificar los conceptos clave y distribuirlos en un calendario de estudio. A continuación, te presento un plan de estudio de 8 semanas que cubre los aspectos más importantes de C++:
-
 ### Semana 1: Fundamentos de C++
 - **Día 1**: Introducción a C++, configuración del entorno de desarrollo.
 - **Día 2**: Sintaxis básica, tipos de datos, variables y constantes.
@@ -62,13 +60,3 @@ Crear un plan detallado para aprender C++ para un trabajo implica identificar lo
 - **Día 47**: Buenas prácticas de codificación en C++.
 - **Día 48**: Depuración y testing.
 - **Día 49**: Repaso y ejercicios prácticos.
-
-### Semana 8: Proyecto Final
-- **Día 50-55**: Desarrollo de un proyecto final aplicando los conceptos aprendidos.
-- **Día 56**: Revisión y mejora del proyecto.
-- **Día 57**: Documentación del proyecto.
-- **Día 58**: Presentación del proyecto.
-- **Día 59**: Preparación para entrevistas técnicas.
-- **Día 60**: Simulacro de entrevista técnica y evaluación final.
-
-Este plan está diseñado para un compromiso diario, pero puedes ajustar el tiempo según tu disponibilidad. Además, es fundamental practicar la codificación regularmente y trabajar en pequeños proyectos para consolidar tu aprendizaje.
