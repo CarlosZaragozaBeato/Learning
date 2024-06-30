@@ -11,8 +11,8 @@
 - Operadores básicos y control de flujo (if, else, loop, while, for) --
 
 **Día 5-7: Funciones y Módulos**
-- Definición y uso de funciones
-- Parámetros y retorno de funciones
+- Definición y uso de funciones --
+- Parámetros y retorno de funciones --
 - Módulos y organización del código
 - Cargo y creación de proyectos
 
