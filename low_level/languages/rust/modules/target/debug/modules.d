@@ -1,0 +1,1 @@
+/home/carlos/Desktop/Learning/low_level/languages/rust/modules/target/debug/modules: /home/carlos/Desktop/Learning/low_level/languages/rust/modules/src/main.rs /home/carlos/Desktop/Learning/low_level/languages/rust/modules/src/matematicas.rs /home/carlos/Desktop/Learning/low_level/languages/rust/modules/src/saludo/mod.rs

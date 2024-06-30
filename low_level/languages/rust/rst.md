@@ -1,7 +1,7 @@
 ### Semana 1: Fundamentos de Rust
 
 **Día 1-2: Introducción y Configuración del Entorno**
-- Instalación de Rust (rustup, cargo) -- 
+- Instalación de Rust (rustup, cargo) - 
 - Configuración de un entorno de desarrollo (VSCode, IntelliJ)--
 - Primer programa en Rust (Hello World) --
 
@@ -13,8 +13,8 @@
 **Día 5-7: Funciones y Módulos**
 - Definición y uso de funciones --
 - Parámetros y retorno de funciones --
-- Módulos y organización del código
-- Cargo y creación de proyectos
+- Módulos y organización del código - 
+- Cargo y creación de proyectos --
 
 ### Semana 2: Propiedades Unicas de Rust
 
