@@ -75,4 +75,69 @@ fn main() {
 
 
 
+     // Operadores básicos y control de flujo (if, else, loop, while, for)
+    
+    // Operadores aritméticos
+    // let sum = 5 + 10;
+    // let difference = 10.5 - 4.3;
+    // let product = 4 * 30;
+    // let quotient = 56.7 / 32.2;
+    // let remainder = 43 % 5;
+    // println!("Suma: {}, Diferencia: {}, Producto: {}, Cociente: {}, Resto: {}", sum, difference, product, quotient, remainder);
+    //
+    // // Operadores de comparación y lógicos
+    // let is_equal = 5 == 5;
+    // let is_not_equal = 5 != 6;
+    // let is_greater = 10 > 5;
+    // let is_less = 5 < 10;
+    // let is_greater_or_equal = 5 >= 5;
+    // let is_less_or_equal = 5 <= 5;
+    // let and = true && false;
+    // let or = true || false;
+    // let not = !true;
+    // println!("is_equal: {}, is_not_equal: {}, is_greater: {}, is_less: {}, is_greater_or_equal: {}, is_less_or_equal: {}", is_equal, is_not_equal, is_greater, is_less, is_greater_or_equal, is_less_or_equal);
+    // println!("and: {}, or: {}, not: {}", and, or, not);    // IF Y ELSE 
+    //
+    //
+    // let number = 7;
+    // if number < 5{
+    //     println!("EL NUMERO ES MAYOR DE 5");
+    // }else if number == 5{
+    //     println!("EL NUMERO ES IGUAL A 5");
+    // }else{
+    //     println!("EL NUMERO ES MENOR A 5");
+    // }
+    //
+    // // loop
+    // let mut count = 0;
+    // loop {
+    //     count += 1;
+    //     if count == 5{
+    //         break;
+    //     }
+    //     println!("DENTRO DE LOOP: {}", count);
+    // }
+    // println!("EL LOOP SE ROMPIO EN {}", count);
+    //
+    //
+    // // while
+    // let mut number_while = 3;
+    // while number_while != 0{
+    //     println!("EL NUMERO ACTUAL: WHILE {}", number_while);
+    //     number_while -= 1;
+    // }
+    //
+    //
+    // // for loop 
+    // let a:[i32; 10] = [1,2,3,4,5,6,7,8,9,10];
+    //
+    // for element in a.iter(){
+    //     println!("EL VALOR ES : {}", element);
+    // }
+    //
+    // for number_for in 1..4{
+    //     println!("EL NUMERO ES : {}", number_for);
+    // }
+    //
+
 }

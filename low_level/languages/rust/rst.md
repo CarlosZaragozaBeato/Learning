@@ -8,7 +8,7 @@
 **Día 3-4: Sintaxis Básica y Tipos de Datos**
 - Variables y mutabilidad --
 - Tipos de datos básicos (int, float, bool, char, tuple, array) --
-- Operadores básicos y control de flujo (if, else, loop, while, for)
+- Operadores básicos y control de flujo (if, else, loop, while, for) --
 
 **Día 5-7: Funciones y Módulos**
 - Definición y uso de funciones
