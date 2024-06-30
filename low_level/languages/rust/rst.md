@@ -1,13 +1,13 @@
 ### Semana 1: Fundamentos de Rust
 
 **Día 1-2: Introducción y Configuración del Entorno**
-- Instalación de Rust (rustup, cargo)
-- Configuración de un entorno de desarrollo (VSCode, IntelliJ)
-- Primer programa en Rust (Hello World)
+- Instalación de Rust (rustup, cargo) -- 
+- Configuración de un entorno de desarrollo (VSCode, IntelliJ)--
+- Primer programa en Rust (Hello World) --
 
 **Día 3-4: Sintaxis Básica y Tipos de Datos**
-- Variables y mutabilidad
-- Tipos de datos básicos (int, float, bool, char, tuple, array)
+- Variables y mutabilidad --
+- Tipos de datos básicos (int, float, bool, char, tuple, array) --
 - Operadores básicos y control de flujo (if, else, loop, while, for)
 
 **Día 5-7: Funciones y Módulos**
